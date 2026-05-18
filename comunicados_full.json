@@ -301,16 +301,6 @@
     },
     {
         "distrito": "arrecifes",
-        "titulo": "FINES",
-        "fecha_publicacion": "10-03-2026",
-        "n_comunicado": "3/2026",
-        "nivel_modalidad": "Todos los niveles y modalidades",
-        "destinado_a": "ASPIRANTES A DOCENTES",
-        "emite": "SAD ARRECIFES",
-        "enlace": "https://abc.gob.ar/sad/sites/default/files/2026-03/Comunicado FINES 2026.doc"
-    },
-    {
-        "distrito": "arrecifes",
         "titulo": "INSCRIPCIÓN INFINE",
         "fecha_publicacion": "13-02-2026",
         "n_comunicado": "3/2026",
@@ -318,6 +308,16 @@
         "destinado_a": "ASPIRANTES A DOCENTES",
         "emite": "SAD ARRECIFES",
         "enlace": "https://abc.gob.ar/sad/sites/default/files/2026-02/Inscripcion a Listados In Fine 2026_0.docx"
+    },
+    {
+        "distrito": "arrecifes",
+        "titulo": "FINES",
+        "fecha_publicacion": "10-03-2026",
+        "n_comunicado": "3/2026",
+        "nivel_modalidad": "Todos los niveles y modalidades",
+        "destinado_a": "ASPIRANTES A DOCENTES",
+        "emite": "SAD ARRECIFES",
+        "enlace": "https://abc.gob.ar/sad/sites/default/files/2026-03/Comunicado FINES 2026.doc"
     },
     {
         "distrito": "arrecifes",
@@ -2731,16 +2731,6 @@
     },
     {
         "distrito": "baradero",
-        "titulo": "Rectifica COMUNICADO N° 7/2026: INSCRIPCIÓN PARA CONFORMACIÓN DE LISTADOS BIANUALES CEPT N° 17",
-        "fecha_publicacion": "25-02-2026",
-        "n_comunicado": "7/2026",
-        "nivel_modalidad": "Dir de Ed Agraria",
-        "destinado_a": "DOCENTES",
-        "emite": "SAD BARADERO",
-        "enlace": "https://abc.gob.ar/sad/sites/default/files/2026-02/7- Rectifica COMUNICADO N 7.pdf"
-    },
-    {
-        "distrito": "baradero",
         "titulo": "INSCRIPCIÓN PARA CONFORMACIÓN DE LISTADOS BIANUALES CEPT N° 17",
         "fecha_publicacion": "23-02-2026",
         "n_comunicado": "7/2026",
@@ -2748,6 +2738,16 @@
         "destinado_a": "Equipos de Conducción y Docentes",
         "emite": "SAD BARADERO",
         "enlace": "https://abc.gob.ar/sad/sites/default/files/2026-02/7- listados bianuales cept17.pdf"
+    },
+    {
+        "distrito": "baradero",
+        "titulo": "Rectifica COMUNICADO N° 7/2026: INSCRIPCIÓN PARA CONFORMACIÓN DE LISTADOS BIANUALES CEPT N° 17",
+        "fecha_publicacion": "25-02-2026",
+        "n_comunicado": "7/2026",
+        "nivel_modalidad": "Dir de Ed Agraria",
+        "destinado_a": "DOCENTES",
+        "emite": "SAD BARADERO",
+        "enlace": "https://abc.gob.ar/sad/sites/default/files/2026-02/7- Rectifica COMUNICADO N 7.pdf"
     },
     {
         "distrito": "baradero",
