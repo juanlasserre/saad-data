@@ -301,16 +301,6 @@
     },
     {
         "distrito": "arrecifes",
-        "titulo": "FINES",
-        "fecha_publicacion": "10-03-2026",
-        "n_comunicado": "3/2026",
-        "nivel_modalidad": "Todos los niveles y modalidades",
-        "destinado_a": "ASPIRANTES A DOCENTES",
-        "emite": "SAD ARRECIFES",
-        "enlace": "https://abc.gob.ar/sad/sites/default/files/2026-03/Comunicado FINES 2026.doc"
-    },
-    {
-        "distrito": "arrecifes",
         "titulo": "INSCRIPCIÓN INFINE",
         "fecha_publicacion": "13-02-2026",
         "n_comunicado": "3/2026",
@@ -318,6 +308,16 @@
         "destinado_a": "ASPIRANTES A DOCENTES",
         "emite": "SAD ARRECIFES",
         "enlace": "https://abc.gob.ar/sad/sites/default/files/2026-02/Inscripcion a Listados In Fine 2026_0.docx"
+    },
+    {
+        "distrito": "arrecifes",
+        "titulo": "FINES",
+        "fecha_publicacion": "10-03-2026",
+        "n_comunicado": "3/2026",
+        "nivel_modalidad": "Todos los niveles y modalidades",
+        "destinado_a": "ASPIRANTES A DOCENTES",
+        "emite": "SAD ARRECIFES",
+        "enlace": "https://abc.gob.ar/sad/sites/default/files/2026-03/Comunicado FINES 2026.doc"
     },
     {
         "distrito": "arrecifes",
@@ -1131,6 +1131,36 @@
     },
     {
         "distrito": "ayacucho",
+        "titulo": "Dificil Cobertura ESCUELA DE EDUCACION ARTISTICA \"MAFALDA\"",
+        "fecha_publicacion": "19-05-2026",
+        "n_comunicado": "54/2026",
+        "nivel_modalidad": "Educación Artística",
+        "destinado_a": "Docentes y Aspirantes interesados.",
+        "emite": "Secretaria de Asuntos Docentes Ayacucho.",
+        "enlace": "https://abc.gob.ar/sad/sites/default/files/2026-05/Dificil cobertura EEA.pdf"
+    },
+    {
+        "distrito": "ayacucho",
+        "titulo": "Pruebas de Selección 2026: Directora/or CIIE",
+        "fecha_publicacion": "19-05-2026",
+        "n_comunicado": "53/2026",
+        "nivel_modalidad": "Todos los niveles y modalidades",
+        "destinado_a": "Docentes y Aspirantes interesados.",
+        "emite": "Secretaria de Asuntos Docentes Ayacucho.",
+        "enlace": "https://abc.gob.ar/sad/sites/default/files/2026-05/Comunicado PS CIIE 2026.pdf"
+    },
+    {
+        "distrito": "ayacucho",
+        "titulo": "Difusión y convocatoria Proyectos Pedagógicos E.E.S.T. N° 1",
+        "fecha_publicacion": "19-05-2026",
+        "n_comunicado": "52/2026",
+        "nivel_modalidad": "Educación Técnico Profesional",
+        "destinado_a": "Docentes y Aspirantes interesados.",
+        "emite": "Secretaria de Asuntos Docentes Ayacucho.",
+        "enlace": "https://abc.gob.ar/sad/sites/default/files/2026-05/Proyectos 7º año EEST N° 1.pdf"
+    },
+    {
+        "distrito": "ayacucho",
         "titulo": "Llamado a Concursos I.S.F.D. y T. Nº 87",
         "fecha_publicacion": "18-05-2026",
         "n_comunicado": "51/2026",
@@ -1648,6 +1678,16 @@
         "destinado_a": "TODOS LOS NIVELES Y MODALIDADES",
         "emite": "SAD AZUL",
         "enlace": "https://abc.gob.ar/sad/sites/default/files/2026-03/PV-2026-09016224-GDEBA-DTCDGCYE - Ingreso 2027.pdf"
+    },
+    {
+        "distrito": "bahia-blanca",
+        "titulo": "SAD Bahía Blanca difunde el Comunicado Oficial N°47 sobre Pruebas de Selección 2026 de DIRECTORA/OR transitorio de CIIE",
+        "fecha_publicacion": "19-05-2026",
+        "n_comunicado": "47/2026",
+        "nivel_modalidad": "Todos los niveles y modalidades",
+        "destinado_a": "Docentes interesadas/os en Pruebas de Selección",
+        "emite": "SADD B.BCA.",
+        "enlace": "https://abc.gob.ar/sad/sites/default/files/2026-05/COMUNICADO 47_26 PS D CIIE.pdf"
     },
     {
         "distrito": "bahia-blanca",
@@ -5641,6 +5681,16 @@
     },
     {
         "distrito": "berisso",
+        "titulo": "Cobertura de cargo jerárquico transitorio Secretario/a - Nivel Primario -Berisso",
+        "fecha_publicacion": "19-05-2026",
+        "n_comunicado": "233/2026",
+        "nivel_modalidad": "Educación Primaria",
+        "destinado_a": "Docentes merituados en nóminas vigentes",
+        "emite": "SAD Berisso",
+        "enlace": "https://abc.gob.ar/sad/sites/default/files/2026-05/COMUNICADO 233-26.pdf"
+    },
+    {
+        "distrito": "berisso",
         "titulo": "Convocatoria a Prueba de Selección por evaluación de títulos, antecedentes y oposición -Psicología de la Educación I-Escuela de arte de Berisso",
         "fecha_publicacion": "19-05-2026",
         "n_comunicado": "232/2026",
@@ -5677,7 +5727,7 @@
         "nivel_modalidad": "Todos los niveles y modalidades",
         "destinado_a": "Docentes interesados y habilitados para el cargo",
         "emite": "SAD Berisso",
-        "enlace": "https://abc.gob.ar/sad/sites/default/files/2026-05/COMUNICADO 229-26.pdf"
+        "enlace": "https://abc.gob.ar/sad/sites/default/files/2026-05/COMUNICADO 229-26_0.pdf"
     },
     {
         "distrito": "berisso",
@@ -9561,16 +9611,6 @@
     },
     {
         "distrito": "brandsen",
-        "titulo": "INSCRIPCIÓN 2026: LISTADOS IN FINE DE FORMACIÓN PROFESIONAL",
-        "fecha_publicacion": "13-03-2026",
-        "n_comunicado": "30/2026",
-        "nivel_modalidad": "Dir de Form Prof",
-        "destinado_a": "EQUIPOS DE CONDUCCIÓN,DOCENTES Y ASPIRANTES",
-        "emite": "SAD BRANDSEN-ALBARRACIN JUANA-SPOT",
-        "enlace": "https://abc.gob.ar/sad/sites/default/files/2026-03/inscripcion 2026 Formacion Profesionalxxx.pdf"
-    },
-    {
-        "distrito": "brandsen",
         "titulo": "CONVOCATORIA POR PROYECTO ARTÍSTICA CERÁMICA 2026",
         "fecha_publicacion": "17-03-2026",
         "n_comunicado": "30/2026",
@@ -9578,6 +9618,16 @@
         "destinado_a": "EQUIPO DE CONDUCCIÓN/DOCENTES/ASPIRANTES",
         "emite": "SAD BRANDSEN-ALBARRACIN JUANA-SPOT",
         "enlace": "https://abc.gob.ar/sad/sites/default/files/2026-03/CONVOCATORIA POR PROYECTO ARTÍSTICA CERÁMICA- 2026 (1).pdf"
+    },
+    {
+        "distrito": "brandsen",
+        "titulo": "INSCRIPCIÓN 2026: LISTADOS IN FINE DE FORMACIÓN PROFESIONAL",
+        "fecha_publicacion": "13-03-2026",
+        "n_comunicado": "30/2026",
+        "nivel_modalidad": "Dir de Form Prof",
+        "destinado_a": "EQUIPOS DE CONDUCCIÓN,DOCENTES Y ASPIRANTES",
+        "emite": "SAD BRANDSEN-ALBARRACIN JUANA-SPOT",
+        "enlace": "https://abc.gob.ar/sad/sites/default/files/2026-03/inscripcion 2026 Formacion Profesionalxxx.pdf"
     },
     {
         "distrito": "brandsen",
@@ -10198,6 +10248,16 @@
         "destinado_a": "Todos los niveles y modalidades",
         "emite": "Departamento de Comunicaciones SAD Campana",
         "enlace": "https://abc.gob.ar/sad/sites/default/files/2026-02/Pruebas de idoneidad estratégicas 2026.pdf"
+    },
+    {
+        "distrito": "capitan-sarmiento",
+        "titulo": "LLAMADO A COBERTURA CARGO PRECEPTOR SUPLENTE DEL ISFD y T N° 138-Resol 6179/25",
+        "fecha_publicacion": "19-05-2026",
+        "n_comunicado": "50/2026",
+        "nivel_modalidad": "Todos los niveles y modalidades",
+        "destinado_a": "Equipos de Conducción / Docentes",
+        "emite": "Secretaría de Asuntos Docentes",
+        "enlace": "https://abc.gob.ar/sad/sites/default/files/2026-05/Solicitud cobertura cargo_PR resol 6179-25.pdf"
     },
     {
         "distrito": "capitan-sarmiento",
@@ -12108,6 +12168,16 @@
         "destinado_a": "Equipos de Conducción - Docentes",
         "emite": "Secretaria de Asuntos Docentes",
         "enlace": "https://abc.gob.ar/sad/sites/default/files/2026-01/COMUNICADO 1 - 2026.pdf"
+    },
+    {
+        "distrito": "castelli",
+        "titulo": "Procedimiento para docentes recalificados",
+        "fecha_publicacion": "19-05-2026",
+        "n_comunicado": "74/2026",
+        "nivel_modalidad": "Todos los niveles y modalidades",
+        "destinado_a": "Todos",
+        "emite": "SAD Castelli",
+        "enlace": "https://abc.gob.ar/sad/sites/default/files/2026-05/Comunicado General N° 74_26  Procedimiento para docentes recalificados.docx"
     },
     {
         "distrito": "castelli",
@@ -14151,6 +14221,26 @@
     },
     {
         "distrito": "colon",
+        "titulo": "DIFUSIÓN DEL ISFDYT N°124",
+        "fecha_publicacion": "19-05-2026",
+        "n_comunicado": "76/2026",
+        "nivel_modalidad": "Todos los niveles y modalidades",
+        "destinado_a": "TODOS",
+        "emite": "SAD",
+        "enlace": "https://abc.gob.ar/sad/sites/default/files/2026-05/COMUNICADO 76.pdf"
+    },
+    {
+        "distrito": "colon",
+        "titulo": "Comunicado N° 75 - DISPOSICIÓN PS -DIRECTORA/OR DE CIIE-2026",
+        "fecha_publicacion": "19-05-2026",
+        "n_comunicado": "75/2026",
+        "nivel_modalidad": "Todos los niveles y modalidades",
+        "destinado_a": "TODOS",
+        "emite": "SAD",
+        "enlace": "https://abc.gob.ar/sad/sites/default/files/2026-05/Comunicado 75-2026.pdf"
+    },
+    {
+        "distrito": "colon",
         "titulo": "Secretaría de Asuntos Docentes de Colón, realiza difusión DEL ISFDYT N°124.",
         "fecha_publicacion": "04-05-2026",
         "n_comunicado": "70/2026",
@@ -15208,6 +15298,16 @@
         "destinado_a": "DOCENTES",
         "emite": "SAD CORONEL PRINGLES",
         "enlace": "https://abc.gob.ar/sad/sites/default/files/2026-03/Instructivo Entrevistas medicas abreviadas_0.pdf"
+    },
+    {
+        "distrito": "coronel-rosales",
+        "titulo": "PRUEBAS DE SELECCIÓN POR EVALUACIÓN DE TÍTULOS, ANTECEDENTES Y OPOSICIÓN DEL CEPEAC 1, CORRESPONDIENTE AL PROFESORADO EN MÚSICA Y TEATRO.",
+        "fecha_publicacion": "19-05-2026",
+        "n_comunicado": "77/2026",
+        "nivel_modalidad": "Educación Superior",
+        "destinado_a": "DIRECTIVOS, SECRETARIOS, DOCENTES",
+        "emite": "DEPARTAMENTO DE PRENSA",
+        "enlace": "https://abc.gob.ar/sad/sites/default/files/2026-05/C77-PRUEBAS DE SELECCIÓN POR EVALUACIÓN DE TÍTULOS, ANTECEDENTES Y OPOSICIÓN DEL CEPEAC 1, CORRESPONDIENTE AL PROFESORADO EN MÚSICA Y TEATRO.pdf"
     },
     {
         "distrito": "coronel-rosales",
@@ -16471,6 +16571,16 @@
     },
     {
         "distrito": "ensenada",
+        "titulo": "DIFUSIÓN ACTOS JERARQUICOS BERISSO",
+        "fecha_publicacion": "19-05-2026",
+        "n_comunicado": "368/2026",
+        "nivel_modalidad": "Educación Secundaria",
+        "destinado_a": "DOCENTES MERITUADOS EN NOMINA",
+        "emite": "SAD ENSENADA",
+        "enlace": "https://abc.gob.ar/sad/sites/default/files/2026-05/COMUNICADO 226-26_0.pdf"
+    },
+    {
+        "distrito": "ensenada",
         "titulo": "ASISTENCIA TECNICA CONCURSO TITULAR DIRECTIVO SECUNDARIA",
         "fecha_publicacion": "18-05-2026",
         "n_comunicado": "367/2026",
@@ -17688,6 +17798,26 @@
         "destinado_a": "Docentes- Ed. Técnica",
         "emite": "Secretaría de Asuntos Docentes Escobar",
         "enlace": "https://abc.gob.ar/sad/sites/default/files/2026-02/ACTO PÚBLICO JERÁRQUICO- VICEDIRECTOR SUPLENTE EN EEST Nº 2 Y VICEDIRECTOR PROVISIONAL EN EEST Nº 4- ED. TÉCNICA.pdf"
+    },
+    {
+        "distrito": "esteban-echeverria",
+        "titulo": "RESOLUCIÓN 1750/2026 - RECALIFICADOS",
+        "fecha_publicacion": "19-05-2026",
+        "n_comunicado": "105/2026",
+        "nivel_modalidad": "Todos los niveles y modalidades",
+        "destinado_a": "Docentes de la provincia de Buenos Aires",
+        "emite": "SAD E. Echeverria",
+        "enlace": "https://abc.gob.ar/sad/sites/default/files/2026-05/Comunicado105.pdf"
+    },
+    {
+        "distrito": "esteban-echeverria",
+        "titulo": "Pruebas de Selección DIRECTIVOS DE CIIE",
+        "fecha_publicacion": "18-05-2026",
+        "n_comunicado": "104/2026",
+        "nivel_modalidad": "Todos los niveles y modalidades",
+        "destinado_a": "Docentes de la provincia de Buenos Aires",
+        "emite": "SAD E. Echeverria",
+        "enlace": "https://abc.gob.ar/sad/sites/default/files/2026-05/104 COMUNICADO N° 104 - DI-2026-17011237-GDEBA-DPESUPDGCYE PS DIRECTORAS-ES CIIE y Anexos.pdf"
     },
     {
         "distrito": "esteban-echeverria",
@@ -22311,16 +22441,6 @@
     },
     {
         "distrito": "florentino-ameghino",
-        "titulo": "PRUEBA DE SELECCION 2026 SECRETARIAS/OS DE JEFATURA DE LA SECRETARIA DE ASUNTOS DOCENTES",
-        "fecha_publicacion": "30-04-2026",
-        "n_comunicado": "15/2026",
-        "nivel_modalidad": "Todos los niveles y modalidades",
-        "destinado_a": "TODAS LAS INSTITUCIONES",
-        "emite": "SAD 128- FLORENTINO AMEGHINO",
-        "enlace": "https://abc.gob.ar/sad/sites/default/files/2026-05/_ COMUNICADO OFICIAL N°48-  Disposición Prueba de Selección 2026 cargo SJ de SAD.docx.pdf"
-    },
-    {
-        "distrito": "florentino-ameghino",
         "titulo": "PS 2026 TRANSITORIOS JEFES/AS DE AREA Ed. Superior Artística y Secundaria Artística ESEA",
         "fecha_publicacion": "14-04-2026",
         "n_comunicado": "15/2026",
@@ -22328,6 +22448,16 @@
         "destinado_a": "TODAS LAS INSTITUCIONES",
         "emite": "SAD 128- FLORENTINO AMEGHINO",
         "enlace": "https://abc.gob.ar/sad/sites/default/files/2026-04/_COMUNICADO OFICIAL N° 33-PS 2026 JEFES_AS DE AREA.docx (1).pdf"
+    },
+    {
+        "distrito": "florentino-ameghino",
+        "titulo": "PRUEBA DE SELECCION 2026 SECRETARIAS/OS DE JEFATURA DE LA SECRETARIA DE ASUNTOS DOCENTES",
+        "fecha_publicacion": "30-04-2026",
+        "n_comunicado": "15/2026",
+        "nivel_modalidad": "Todos los niveles y modalidades",
+        "destinado_a": "TODAS LAS INSTITUCIONES",
+        "emite": "SAD 128- FLORENTINO AMEGHINO",
+        "enlace": "https://abc.gob.ar/sad/sites/default/files/2026-05/_ COMUNICADO OFICIAL N°48-  Disposición Prueba de Selección 2026 cargo SJ de SAD.docx.pdf"
     },
     {
         "distrito": "florentino-ameghino",
@@ -22938,6 +23068,16 @@
         "destinado_a": "TODOS",
         "emite": "SAD G. ARENALES",
         "enlace": "https://abc.gob.ar/sad/sites/default/files/2026-03/EMERGENCIA ED. FÍSICA.pdf"
+    },
+    {
+        "distrito": "general-belgrano",
+        "titulo": "Secretaría de Asuntos Docentes de GENERAL BELGRANO difunde la convocatoria de DIRECTOR/A CIIE. DISPOSICION 2026/3.",
+        "fecha_publicacion": "19-05-2026",
+        "n_comunicado": "66/2026",
+        "nivel_modalidad": "Todos los niveles y modalidades",
+        "destinado_a": "TODOS LOS DOCENTES",
+        "emite": "SAD GENERAL BELGRANO",
+        "enlace": "https://abc.gob.ar/sad/sites/default/files/2026-05/Com 66_2026.pdf"
     },
     {
         "distrito": "general-belgrano",
@@ -23611,6 +23751,16 @@
     },
     {
         "distrito": "general-las-heras",
+        "titulo": "Emergencia Técnico Docente Médico (TDM) Modalidad Ed. Física",
+        "fecha_publicacion": "19-05-2026",
+        "n_comunicado": "64/2026",
+        "nivel_modalidad": "Educación Física",
+        "destinado_a": "MÉDICOS",
+        "emite": "SAD",
+        "enlace": "https://abc.gob.ar/sad/sites/default/files/2026-05/Com. 64 Emergencia TDM.pdf"
+    },
+    {
+        "distrito": "general-las-heras",
         "titulo": "Disposición Pruebas de Selección 2026 DIRECTORA/OR transitorio de CIIE",
         "fecha_publicacion": "18-05-2026",
         "n_comunicado": "63/2026",
@@ -24258,6 +24408,26 @@
         "destinado_a": "Docentes y Profesionales del Área Especifica",
         "emite": "Secretaria de Asuntos Docentes de General Lavalle",
         "enlace": "https://abc.gob.ar/sad/sites/default/files/2026-03/Solicitud llamado de Emergencia - Formación Profesional.pdf"
+    },
+    {
+        "distrito": "general-madariaga",
+        "titulo": "Documentación requerida en el cuerpo del comunicado:",
+        "fecha_publicacion": "19-05-2026",
+        "n_comunicado": "58/2026",
+        "nivel_modalidad": "Todos los niveles y modalidades",
+        "destinado_a": "DOCENTES",
+        "emite": "SAD",
+        "enlace": "https://abc.gob.ar/sad/sites/default/files/2026-05/COMUNICADO 58-2026  DIFICIL COBERTURA - EDUCACIÓN ESPECIAL.docx"
+    },
+    {
+        "distrito": "general-madariaga",
+        "titulo": "Documentación requerida e información  de interés, manifiesta en el cuerpo del comunicado:",
+        "fecha_publicacion": "19-05-2026",
+        "n_comunicado": "57/2026",
+        "nivel_modalidad": "Todos los niveles y modalidades",
+        "destinado_a": "DOCENTES",
+        "emite": "SAD",
+        "enlace": "https://abc.gob.ar/sad/sites/default/files/2026-05/COMUNICADO 57-2026 PRUEBA DE SELECCION UNIDADES CURRICULARES - ESCUELA D EARTE N 1.docx"
     },
     {
         "distrito": "general-madariaga",
@@ -24961,16 +25131,6 @@
     },
     {
         "distrito": "general-pinto",
-        "titulo": "Instructor/a de Formación Profesional: Familia Construcción – 20 módulos – turno vespertino Familia Profesional: Construcciones Civiles “Húmeda y seca",
-        "fecha_publicacion": "02-03-2026",
-        "n_comunicado": "4/2026",
-        "nivel_modalidad": "Educación Técnico Profesional",
-        "destinado_a": "ASPIRANTES",
-        "emite": "SAD - GENERAL PINTO",
-        "enlace": "https://abc.gob.ar/sad/sites/default/files/2026-03/Difusión_Docentes_EPS_GralPintO_Instructor (1).pdf"
-    },
-    {
-        "distrito": "general-pinto",
         "titulo": "TITULARIZACIONES INTERINAS 2026 - EDUCACIÓN ESPECIAL",
         "fecha_publicacion": "24-02-2026",
         "n_comunicado": "4/2026",
@@ -24978,6 +25138,16 @@
         "destinado_a": "EDUCACIÓN ESPECIAL",
         "emite": "SAD GRAL PINTO",
         "enlace": "https://abc.gob.ar/sad/sites/default/files/2026-02/TITULARIZACION INTERINA -2026-ED. ESPECIAL -   ULTIMA_0.pdf"
+    },
+    {
+        "distrito": "general-pinto",
+        "titulo": "Instructor/a de Formación Profesional: Familia Construcción – 20 módulos – turno vespertino Familia Profesional: Construcciones Civiles “Húmeda y seca",
+        "fecha_publicacion": "02-03-2026",
+        "n_comunicado": "4/2026",
+        "nivel_modalidad": "Educación Técnico Profesional",
+        "destinado_a": "ASPIRANTES",
+        "emite": "SAD - GENERAL PINTO",
+        "enlace": "https://abc.gob.ar/sad/sites/default/files/2026-03/Difusión_Docentes_EPS_GralPintO_Instructor (1).pdf"
     },
     {
         "distrito": "general-pinto",
@@ -25008,6 +25178,16 @@
         "destinado_a": "ASPIRANTES",
         "emite": "SAD - GENERAL PINTO",
         "enlace": "https://abc.gob.ar/sad/sites/default/files/2026-02/PRUEBAS DE IDONEIDAD -  FP.pdf"
+    },
+    {
+        "distrito": "general-pueyrredon",
+        "titulo": "Comunicado 175-26 - Notificación List Emergencia TDM EducFísica",
+        "fecha_publicacion": "19-05-2026",
+        "n_comunicado": "175/2026",
+        "nivel_modalidad": "Educación Física",
+        "destinado_a": "EQUIPOS DE CONDUCCIÓN - ASPIRANTES",
+        "emite": "S.A.D. General Pueyrredon",
+        "enlace": "https://abc.gob.ar/sad/sites/default/files/2026-05/Comunicado 175-26 - Notificacion List Emergencia TDM EducFisica.pdf"
     },
     {
         "distrito": "general-pueyrredon",
@@ -26771,6 +26951,16 @@
     },
     {
         "distrito": "general-rodriguez",
+        "titulo": "DIFUSIÓN RECTIFICATORIO - Comisión Evaluadora Pruebas de Selección Inspectoras/es ARTÍSTICA",
+        "fecha_publicacion": "19-05-2026",
+        "n_comunicado": "67/2026",
+        "nivel_modalidad": "Todos los niveles y modalidades",
+        "destinado_a": "Equipos de Conducción, Docentes",
+        "emite": "SAD Gral. Rodríguez",
+        "enlace": "https://abc.gob.ar/sad/sites/default/files/2026-05/COM 67 2026.pdf"
+    },
+    {
+        "distrito": "general-rodriguez",
         "titulo": "Difusión Disposición para Pruebas de Selección 2026 de DIRECTORA/OR transitorio de CIIE de las Regiones Educativas y Distritos que se detallan",
         "fecha_publicacion": "18-05-2026",
         "n_comunicado": "66/2026",
@@ -27428,6 +27618,26 @@
         "destinado_a": "Equipos de Conducción,  Docentes",
         "emite": "SAD Gral. Rodríguez",
         "enlace": "https://abc.gob.ar/sad/sites/default/files/2026-02/COM 1 director esc guardavidas 2026.pdf"
+    },
+    {
+        "distrito": "general-san-martin",
+        "titulo": "Acto Público Cargos Jerárquicos Nivel Superior-REGENTE-SAN MIGUEL",
+        "fecha_publicacion": "19-05-2026",
+        "n_comunicado": "189/2026",
+        "nivel_modalidad": "Educación Superior",
+        "destinado_a": "SUPERIOR",
+        "emite": "SAD SAN MIGUEL",
+        "enlace": "https://abc.gob.ar/sad/sites/default/files/2026-05/Acto Público Cargos Jerárquicos Nivel Superior-REGENTE-SAN MIGUEL.pdf"
+    },
+    {
+        "distrito": "general-san-martin",
+        "titulo": "Convocatoria a Acto Público Jerárquico Transitorio de Modalidad Adultos: SAN ISIDRO",
+        "fecha_publicacion": "18-05-2026",
+        "n_comunicado": "188/2026",
+        "nivel_modalidad": "Todos los niveles y modalidades",
+        "destinado_a": "MODALIDAD ADULTOS",
+        "emite": "SAD SAN ISIDRO",
+        "enlace": "https://abc.gob.ar/sad/sites/default/files/2026-05/Convocatoria a Acto Público Jerárquico Transitorio de Modalidad Adultos_ SAN ISIDRO.pdf"
     },
     {
         "distrito": "general-san-martin",
@@ -29301,6 +29511,16 @@
     },
     {
         "distrito": "general-viamonte",
+        "titulo": "La Dirección del Instituto de Formación Docente y Técnica N° 60 informa el llamado a cobertura de los Espacios Curriculares para el Ciclo Lectivo 2026, conforme lo establece la Resolución 6179/25",
+        "fecha_publicacion": "19-05-2026",
+        "n_comunicado": "39/2026",
+        "nivel_modalidad": "Todos los niveles y modalidades",
+        "destinado_a": "Todos",
+        "emite": "Sad General Viamonte",
+        "enlace": "https://abc.gob.ar/sad/sites/default/files/2026-05/5° llamado a inscripcion concursos 2026 ISFD N° 60.doc.pdf"
+    },
+    {
+        "distrito": "general-viamonte",
         "titulo": "Secretaria de Asuntos Docentes realiza llamado a interesados a inscripción, para conformar listado de Emergencia en la Modalidad Técnico Profesional. Disposición N ° 19/16, para la cobertura de: NTICX",
         "fecha_publicacion": "19-05-2026",
         "n_comunicado": "38/2026",
@@ -29648,6 +29868,16 @@
         "destinado_a": "TODOS",
         "emite": "SAD General Villegas",
         "enlace": "https://abc.gob.ar/sad/sites/default/files/2026-02/COMUNICADO N° 2-2026-CRONOGRAMA ACTOS PÚBLICOS TIT. INTERINAS 2026.docx (2).pdf"
+    },
+    {
+        "distrito": "gonzales-chaves",
+        "titulo": "CONFORMACIÓN DE LISTADO DIFICIL COBERTURA: MVI JARDIN N° 905",
+        "fecha_publicacion": "19-05-2026",
+        "n_comunicado": "21/2026",
+        "nivel_modalidad": "Educación Inicial",
+        "destinado_a": "DOCENTES",
+        "emite": "SAD ADOLFO GONZALES CHAVES",
+        "enlace": "https://abc.gob.ar/sad/sites/default/files/2026-05/CO 021- DIFICIL COBERTURA - MVI JI 905.pdf"
     },
     {
         "distrito": "gonzales-chaves",
@@ -30021,16 +30251,6 @@
     },
     {
         "distrito": "hipolito-yrigoyen",
-        "titulo": "Disposiciones de Pruebas de Selección 2026 cargo DIRECTIVOS transitorios de todos los Niveles y Modalidades",
-        "fecha_publicacion": "07-04-2026",
-        "n_comunicado": "22/2026",
-        "nivel_modalidad": "Todos los niveles y modalidades",
-        "destinado_a": "DOCENTES",
-        "emite": "SAD",
-        "enlace": "https://abc.gob.ar/sad/sites/default/files/2026-04/COMUNICADO N° 22 DIRECTIVOS transitorios 2026.docx (1).pdf"
-    },
-    {
-        "distrito": "hipolito-yrigoyen",
         "titulo": "RECTIFICAR CRONOGRAMA E INCORPORACION AREA - INSCRIPCIÓN LISTADO FINES 3 - LISTADOS EMERGENCIA ADULTOS",
         "fecha_publicacion": "06-04-2026",
         "n_comunicado": "22/2026",
@@ -30038,6 +30258,16 @@
         "destinado_a": "DOCENTES DE TODOS LOS NIVELES Y/O MODALIDADES",
         "emite": "SECRETARIA ASUNTOS DOCENTES DE HIPOLITO YRIGOYEN",
         "enlace": "https://abc.gob.ar/sad/sites/default/files/2026-04/RECTIFICAR CRONOGRAMA E INCORPORACION AREA - INSCRIPCIÓN LISTADO FINES 3 - LISTADOS EMERGENCIA ADULTOS.pdf"
+    },
+    {
+        "distrito": "hipolito-yrigoyen",
+        "titulo": "Disposiciones de Pruebas de Selección 2026 cargo DIRECTIVOS transitorios de todos los Niveles y Modalidades",
+        "fecha_publicacion": "07-04-2026",
+        "n_comunicado": "22/2026",
+        "nivel_modalidad": "Todos los niveles y modalidades",
+        "destinado_a": "DOCENTES",
+        "emite": "SAD",
+        "enlace": "https://abc.gob.ar/sad/sites/default/files/2026-04/COMUNICADO N° 22 DIRECTIVOS transitorios 2026.docx (1).pdf"
     },
     {
         "distrito": "hipolito-yrigoyen",
@@ -31158,6 +31388,66 @@
         "destinado_a": "A LOS EQUIPOS DE CONDUCCIÓN",
         "emite": "SAD HURLINGHAM",
         "enlace": "https://abc.gob.ar/sad/sites/default/files/2026-02/COM GRAL 1 26 - PRUEBAS DE IDONEIDAD ESTRATÉGICA 2026 - FORMACIÓN PROFESIONAL .docx.pdf"
+    },
+    {
+        "distrito": "ituzaingo",
+        "titulo": "APJ HURLINGHAM - Cargos Jerárquicos - INICIAL",
+        "fecha_publicacion": "19-05-2026",
+        "n_comunicado": "236/2026",
+        "nivel_modalidad": "Educación Inicial",
+        "destinado_a": "ESCUELAS - DOCENTES",
+        "emite": "SAD ITUZAINGO",
+        "enlace": "https://abc.gob.ar/sad/sites/default/files/2026-05/COM GRAL 236 - APJ HURLINGHAM - Cargos Jerárquicos - INICIAL.pdf"
+    },
+    {
+        "distrito": "ituzaingo",
+        "titulo": "Itinerarios Formativos - Llamado a Cobertura Módulos - EES N° 06 - Asistencia sobre la Utilización de Aplicaciones Específicas",
+        "fecha_publicacion": "19-05-2026",
+        "n_comunicado": "235/2026",
+        "nivel_modalidad": "Educación Secundaria",
+        "destinado_a": "ESCUELAS - DOCENTES",
+        "emite": "SAD ITUZAINGO",
+        "enlace": "https://abc.gob.ar/sad/sites/default/files/2026-05/COM GRAL 235 - Itinerarios Formativos - Llamado a Cobertura Módulos - EES6 - As. Ut. Aplicaciones Especificas.pdf"
+    },
+    {
+        "distrito": "ituzaingo",
+        "titulo": "Itinerarios Formativos - Llamado a Cobertura Módulos - EES N° 06 - Algoritmos y Estructuras de Datos",
+        "fecha_publicacion": "19-05-2026",
+        "n_comunicado": "234/2026",
+        "nivel_modalidad": "Educación Secundaria",
+        "destinado_a": "ESCUELAS - DOCENTES",
+        "emite": "SAD ITUZAINGO",
+        "enlace": "https://abc.gob.ar/sad/sites/default/files/2026-05/COM GRAL 234 - Itinerarios Formativos - Llamado a Cobertura Módulos - EES6 - Algoritmos y estructuras de datos.pdf"
+    },
+    {
+        "distrito": "ituzaingo",
+        "titulo": "APJ SAN MIGUEL - Cargos Jerárquicos - FÍSICA (CEF)",
+        "fecha_publicacion": "19-05-2026",
+        "n_comunicado": "233/2026",
+        "nivel_modalidad": "Educación Física",
+        "destinado_a": "ESCUELAS - DOCENTES",
+        "emite": "SAD ITUZAINGO",
+        "enlace": "https://abc.gob.ar/sad/sites/default/files/2026-05/COM GRAL 233 - APJ SAN MIGUEL - Cargos jerárquicos - FÍSICA CEF.pdf"
+    },
+    {
+        "distrito": "ituzaingo",
+        "titulo": "APJ SAN MIGUEL - Cargos Jerárquicos - SUPERIOR",
+        "fecha_publicacion": "19-05-2026",
+        "n_comunicado": "232/2026",
+        "nivel_modalidad": "Educación Superior",
+        "destinado_a": "ESCUELAS - DOCENTES",
+        "emite": "SAD ITUZAINGO",
+        "enlace": "https://abc.gob.ar/sad/sites/default/files/2026-05/COM GRAL 232 - APJ SAN MIGUEL - Cargos jerárquicos - SUPERIOR.pdf"
+    },
+    {
+        "distrito": "ituzaingo",
+        "titulo": "RECTIFICATORIO DE C.E. DE P.S. 2026 INSPECTORES DE ED. ARTÍSTICA",
+        "fecha_publicacion": "19-05-2026",
+        "n_comunicado": "231/2026",
+        "nivel_modalidad": "Educación Artística",
+        "destinado_a": "ESCUELAS - DOCENTES",
+        "emite": "SAD ITUZAINGO",
+        "enlace": "https://abc.gob.ar/sad/sites/default/files/2026-05/COM GRAL 231 - RECTIFICATORIA DE COMISION EVALUADORA P.S. 2026 INSPECTORES DE ED. ARTÍSTICA.pdf"
     },
     {
         "distrito": "ituzaingo",
@@ -34458,6 +34748,16 @@
         "destinado_a": "Todos los usuarios",
         "emite": "SAD 1 La Matanza",
         "enlace": "https://abc.gob.ar/sad/sites/default/files/2026-02/1-BIENVENIDA.pdf"
+    },
+    {
+        "distrito": "la-matanza-ii",
+        "titulo": "Difusión APD N°8 Artística Superior por Proyecto Disposición 50/23 y Resolución 6179/25",
+        "fecha_publicacion": "19-05-2026",
+        "n_comunicado": "288/2026",
+        "nivel_modalidad": "Educación Superior",
+        "destinado_a": "Equipos de Conducción y Docentes",
+        "emite": "Secretaria de Asuntos Docentes 2 de la Matanza",
+        "enlace": "https://abc.gob.ar/sad/sites/default/files/2026-05/2026_S2_288.pdf"
     },
     {
         "distrito": "la-matanza-ii",
@@ -37901,6 +38201,26 @@
     },
     {
         "distrito": "la-plata-ii",
+        "titulo": "Cobertura de Cargos Jerárquicos- SECUNDARIA",
+        "fecha_publicacion": "19-05-2026",
+        "n_comunicado": "238/2026",
+        "nivel_modalidad": "Educación Secundaria",
+        "destinado_a": "DOCENTES MERITUADOS",
+        "emite": "DISTRITO VECINO",
+        "enlace": "https://abc.gob.ar/sad/sites/default/files/2026-05/COMUNICADO AREA DE CONCURSOS N° 238.pdf"
+    },
+    {
+        "distrito": "la-plata-ii",
+        "titulo": "Acto de asignación- SECUNDARIA",
+        "fecha_publicacion": "19-05-2026",
+        "n_comunicado": "237/2026",
+        "nivel_modalidad": "Educación Secundaria",
+        "destinado_a": "DOCENTES MERITUADOS",
+        "emite": "SAD ll LA PLATA",
+        "enlace": "https://abc.gob.ar/sad/sites/default/files/2026-05/COMUNICADO AREA DE CONCURSOS N° 237.pdf"
+    },
+    {
+        "distrito": "la-plata-ii",
         "titulo": "PS 2026- Directivos y Secretarios- DEJAYAM",
         "fecha_publicacion": "19-05-2026",
         "n_comunicado": "236/2026",
@@ -38911,16 +39231,6 @@
     },
     {
         "distrito": "la-plata-ii",
-        "titulo": "Cobertura de Cargos Jerárquicos – Nivel INICIAL",
-        "fecha_publicacion": "17-04-2026",
-        "n_comunicado": "131/2026",
-        "nivel_modalidad": "Educación Inicial",
-        "destinado_a": "docentes merituados",
-        "emite": "DTO.VECINO BERAZATEGUI",
-        "enlace": "https://abc.gob.ar/sad/sites/default/files/2026-04/COMUNICADO Nº133-Dto Vecino Berazategui-Educación INICIAL.pdf"
-    },
-    {
-        "distrito": "la-plata-ii",
         "titulo": "ASISTENCIA TÉCNICA - Pruebas de Selección 2026",
         "fecha_publicacion": "14-04-2026",
         "n_comunicado": "131/2026",
@@ -38928,6 +39238,16 @@
         "destinado_a": "docentes merituados",
         "emite": "SAD ll LA PLATA",
         "enlace": "https://abc.gob.ar/sad/sites/default/files/2026-04/COMUNICADO Nº131-ASISTENCIA TECNICA.pdf"
+    },
+    {
+        "distrito": "la-plata-ii",
+        "titulo": "Cobertura de Cargos Jerárquicos – Nivel INICIAL",
+        "fecha_publicacion": "17-04-2026",
+        "n_comunicado": "131/2026",
+        "nivel_modalidad": "Educación Inicial",
+        "destinado_a": "docentes merituados",
+        "emite": "DTO.VECINO BERAZATEGUI",
+        "enlace": "https://abc.gob.ar/sad/sites/default/files/2026-04/COMUNICADO Nº133-Dto Vecino Berazategui-Educación INICIAL.pdf"
     },
     {
         "distrito": "la-plata-ii",
@@ -42091,6 +42411,36 @@
     },
     {
         "distrito": "lincoln",
+        "titulo": "Listado de emergencia de Nivel Primario : Maestro de grado (MG)- 2° Llamado",
+        "fecha_publicacion": "19-05-2026",
+        "n_comunicado": "165/2026",
+        "nivel_modalidad": "Educación Primaria",
+        "destinado_a": "Equipos de Conducción , Docentes,Gremios",
+        "emite": "SECRETARIA DE ASUNTOS DOCENTES",
+        "enlace": "https://abc.gob.ar/sad/sites/default/files/2026-05/COMUNICADO 164_2026.docx.pdf"
+    },
+    {
+        "distrito": "lincoln",
+        "titulo": "Ofrecimientos cargos jerárquicos Secretario, Listados A, B y C , distritos y distritos limítrofes",
+        "fecha_publicacion": "19-05-2026",
+        "n_comunicado": "163/2026",
+        "nivel_modalidad": "Educación Técnico Profesional",
+        "destinado_a": "Docentes Merituados",
+        "emite": "SECRETARIA DE ASUNTOS DOCENTES",
+        "enlace": "https://abc.gob.ar/sad/sites/default/files/2026-05/_COMUNICADO 163_2026.pdf"
+    },
+    {
+        "distrito": "lincoln",
+        "titulo": "Ofrecimientos Distritos vecinos : Carlos Tejedor , cargos Jerárquicos Transitorios.",
+        "fecha_publicacion": "19-05-2026",
+        "n_comunicado": "162/2026",
+        "nivel_modalidad": "Educación Secundaria",
+        "destinado_a": "Docentes Merituados",
+        "emite": "Secretaria de Asuntos Docentes de Lincoln",
+        "enlace": "https://abc.gob.ar/sad/sites/default/files/2026-05/COMUNICADO 162_2026.pdf"
+    },
+    {
+        "distrito": "lincoln",
         "titulo": "Emergencia Educación Artística -Secundaria : APV - AMC - ATT- ADZ- 2° Llamado",
         "fecha_publicacion": "19-05-2026",
         "n_comunicado": "160/2026",
@@ -44671,6 +45021,26 @@
     },
     {
         "distrito": "lujan",
+        "titulo": "Cargos docentes y recalificación laboral- Resolución Conjunta RESOC-2026-1750-GDEBA-DGCYE",
+        "fecha_publicacion": "19-05-2026",
+        "n_comunicado": "103/2026",
+        "nivel_modalidad": "Todos los niveles y modalidades",
+        "destinado_a": "COMUNIDAD EDUCATIVA",
+        "emite": "SAD LUJAN",
+        "enlace": "https://abc.gob.ar/sad/sites/default/files/2026-05/COMUNICADO 103 Cargos docentes y recalificación laboral- Resolución Conjunta RESOC-2026-1750-GDEBA-DGCYE_0.pdf"
+    },
+    {
+        "distrito": "lujan",
+        "titulo": "DIFUNDIR INSCRIPCIÓN DIFICIL COBERTURA PORTUGUES II - EES N° 20",
+        "fecha_publicacion": "19-05-2026",
+        "n_comunicado": "102/2026",
+        "nivel_modalidad": "Todos los niveles y modalidades",
+        "destinado_a": "COMUNIDAD EDUCATIVA",
+        "emite": "SAD LUJAN",
+        "enlace": "https://abc.gob.ar/sad/sites/default/files/2026-05/PORTUGUES-DIFICIL COBERTURA.pdf"
+    },
+    {
+        "distrito": "lujan",
         "titulo": "COMUNICADO 101-DIFUSIÓN COBERTURA POR PROYECTO- ISFDyT N° 7 MERCEDES",
         "fecha_publicacion": "18-05-2026",
         "n_comunicado": "101/2026",
@@ -45701,6 +46071,16 @@
     },
     {
         "distrito": "magdalena",
+        "titulo": "PRUEBAS DE SELECCIÓN DIRECTORES DE CIIE",
+        "fecha_publicacion": "19-05-2026",
+        "n_comunicado": "52/2026",
+        "nivel_modalidad": "Todos los niveles y modalidades",
+        "destinado_a": "TODOS",
+        "emite": "SAD MAGDALENA",
+        "enlace": "https://abc.gob.ar/sad/sites/default/files/2026-05/COM N° 52-26 Pruebas de selección de DIRECTORES DE CIIE.pdf"
+    },
+    {
+        "distrito": "magdalena",
         "titulo": "DIFUSIÓN CONCURSOS VACANTES ISFDYT N°58",
         "fecha_publicacion": "14-05-2026",
         "n_comunicado": "51/2026",
@@ -45851,16 +46231,6 @@
     },
     {
         "distrito": "magdalena",
-        "titulo": "COM N° 36/26 RECTIFICACIÓN ORDEN DE MÉRITO FINES 2",
-        "fecha_publicacion": "14-04-2026",
-        "n_comunicado": "36/2026",
-        "nivel_modalidad": "Todos los niveles y modalidades",
-        "destinado_a": "TODOS",
-        "emite": "SAD MAGDALENA",
-        "enlace": "https://abc.gob.ar/sad/sites/default/files/2026-04/COM N° 36-26- RECTIFICACIÓN ORDEN DE MÉRITO FINES 2.pdf"
-    },
-    {
-        "distrito": "magdalena",
         "titulo": "COM N° 36/26- ORDEN DE MÉRITO FINES 2",
         "fecha_publicacion": "13-04-2026",
         "n_comunicado": "36/2026",
@@ -45868,6 +46238,16 @@
         "destinado_a": "TODOS",
         "emite": "SAD MAGDALENA",
         "enlace": "https://abc.gob.ar/sad/sites/default/files/2026-04/COM N° 36-26- ORDEN DE MÉRITO FINES 2.pdf"
+    },
+    {
+        "distrito": "magdalena",
+        "titulo": "COM N° 36/26 RECTIFICACIÓN ORDEN DE MÉRITO FINES 2",
+        "fecha_publicacion": "14-04-2026",
+        "n_comunicado": "36/2026",
+        "nivel_modalidad": "Todos los niveles y modalidades",
+        "destinado_a": "TODOS",
+        "emite": "SAD MAGDALENA",
+        "enlace": "https://abc.gob.ar/sad/sites/default/files/2026-04/COM N° 36-26- RECTIFICACIÓN ORDEN DE MÉRITO FINES 2.pdf"
     },
     {
         "distrito": "magdalena",
@@ -46401,16 +46781,6 @@
     },
     {
         "distrito": "maipu",
-        "titulo": "Cargos a Cubrir CA/TS",
-        "fecha_publicacion": "04-03-2026",
-        "n_comunicado": "12/2026",
-        "nivel_modalidad": "Educación Especial",
-        "destinado_a": "EQUIPOS DE CONDUCCION - DOCENTES - GREMIOS",
-        "emite": "SECRETARIA DE ASUNTOS DOCENTES MAIPU",
-        "enlace": "https://abc.gob.ar/sad/sites/default/files/2026-03/COMUNICADO 12 LISTADO DE EMERGENCIA CA - TS.pdf"
-    },
-    {
-        "distrito": "maipu",
         "titulo": "Titularizaciones Interinas 2026: Nivel Inicial / Modalidad Educ Especial",
         "fecha_publicacion": "23-02-2026",
         "n_comunicado": "12/2026",
@@ -46418,6 +46788,16 @@
         "destinado_a": "DOCENTES- GREMIOS",
         "emite": "SECRETARIA DE ASUNTOS DOCENTES MAIPU",
         "enlace": "https://abc.gob.ar/sad/sites/default/files/2026-02/CRONOGRAMA DE TITULARIZACIONES INICIAL - ESPECIAL.pdf"
+    },
+    {
+        "distrito": "maipu",
+        "titulo": "Cargos a Cubrir CA/TS",
+        "fecha_publicacion": "04-03-2026",
+        "n_comunicado": "12/2026",
+        "nivel_modalidad": "Educación Especial",
+        "destinado_a": "EQUIPOS DE CONDUCCION - DOCENTES - GREMIOS",
+        "emite": "SECRETARIA DE ASUNTOS DOCENTES MAIPU",
+        "enlace": "https://abc.gob.ar/sad/sites/default/files/2026-03/COMUNICADO 12 LISTADO DE EMERGENCIA CA - TS.pdf"
     },
     {
         "distrito": "maipu",
@@ -46458,6 +46838,26 @@
         "destinado_a": "DOCENTES - GREMIOS",
         "emite": "SECRETARIA DE ASUNTOS DOCENTES MAIPU",
         "enlace": "https://abc.gob.ar/sad/sites/default/files/2026-02/COMUNICADO IDONEIDAD FP.pdf"
+    },
+    {
+        "distrito": "malvinas-argentinas",
+        "titulo": "Programa Fortalecimiento del Tramo de Inicio Acompañado - FoTIA",
+        "fecha_publicacion": "19-05-2026",
+        "n_comunicado": "174/2026",
+        "nivel_modalidad": "Todos los niveles y modalidades",
+        "destinado_a": "A TODOS LOS SERVICIOS EDUCATIVOS",
+        "emite": "SAD MALVINAS ARGENTINAS",
+        "enlace": "https://abc.gob.ar/sad/sites/default/files/2026-05/COMUNICADO Nº 174_2026.docx"
+    },
+    {
+        "distrito": "malvinas-argentinas",
+        "titulo": "ACTO PÚBLICO JERÁRQUICO TRANSITORIO NIVEL PRIMARIO",
+        "fecha_publicacion": "19-05-2026",
+        "n_comunicado": "173/2026",
+        "nivel_modalidad": "Educación Primaria, Todos los niveles y modalidades",
+        "destinado_a": "A TODOS LOS SERVICIOS EDUCATIVOS",
+        "emite": "SAD MALVINAS ARGENTINAS",
+        "enlace": "https://abc.gob.ar/sad/sites/default/files/2026-05/COMUNICADO Nº 173_2026.docx"
     },
     {
         "distrito": "malvinas-argentinas",
@@ -48371,16 +48771,6 @@
     },
     {
         "distrito": "mar-chiquita",
-        "titulo": "MODALIDAD DE SOLICITUD PROVISORIA DE LICENCIAS MEDICAS",
-        "fecha_publicacion": "08-04-2026",
-        "n_comunicado": "16/2026",
-        "nivel_modalidad": "CFAP, Dir de Ed Agraria, Dir de Ed Técnica, Dir de Form Prof, Educación Artística, Educación de Jóvenes, Adultos y Adultos Mayores, Educación Especial, Educación Física, Educación Inicial, Educación Primaria, Educación Secundaria, Educación Superior, Educación Técnico Profesional, Psicología Comunitaria y Pedagogía Social, Sub Prog y Seg de la ETP, Todos los niveles y modalidades,   Dir de Ed Sup de Form Téc",
-        "destinado_a": "DOCENTES Y AUXILIARES DEL DISTRITO",
-        "emite": "Secretaria d e Asuntos Docentes",
-        "enlace": "https://abc.gob.ar/sad/sites/default/files/2026-04/068 - Comunicado N°16 - 2026 - Nuevo Procedimiento Licencias.pdf"
-    },
-    {
-        "distrito": "mar-chiquita",
         "titulo": "Apertura de Emergencia para cobertura de espacios curriculares dependientes de la Modalidad Especial,",
         "fecha_publicacion": "01-04-2026",
         "n_comunicado": "16/2026",
@@ -48388,6 +48778,16 @@
         "destinado_a": "Equipos de Conducción y Docentes.",
         "emite": "Secretaría de Asuntos Docentes de Mar Chiquita.",
         "enlace": "https://abc.gob.ar/sad/sites/default/files/2026-04/068 - Comunicado N° 016 - 2026 - APERTURA EMERGENCIA DE ESPECIAL.docx"
+    },
+    {
+        "distrito": "mar-chiquita",
+        "titulo": "MODALIDAD DE SOLICITUD PROVISORIA DE LICENCIAS MEDICAS",
+        "fecha_publicacion": "08-04-2026",
+        "n_comunicado": "16/2026",
+        "nivel_modalidad": "CFAP, Dir de Ed Agraria, Dir de Ed Técnica, Dir de Form Prof, Educación Artística, Educación de Jóvenes, Adultos y Adultos Mayores, Educación Especial, Educación Física, Educación Inicial, Educación Primaria, Educación Secundaria, Educación Superior, Educación Técnico Profesional, Psicología Comunitaria y Pedagogía Social, Sub Prog y Seg de la ETP, Todos los niveles y modalidades,   Dir de Ed Sup de Form Téc",
+        "destinado_a": "DOCENTES Y AUXILIARES DEL DISTRITO",
+        "emite": "Secretaria d e Asuntos Docentes",
+        "enlace": "https://abc.gob.ar/sad/sites/default/files/2026-04/068 - Comunicado N°16 - 2026 - Nuevo Procedimiento Licencias.pdf"
     },
     {
         "distrito": "mar-chiquita",
@@ -48538,6 +48938,26 @@
         "destinado_a": "DOCENTES",
         "emite": "Secretaria de Asuntos Docentes de Mar Chiquita",
         "enlace": "https://abc.gob.ar/sad/sites/default/files/2026-02/068 - Comunicado N° 001 - Titulares Interinos 2026 - INICIAL-ESPECIAL.docx"
+    },
+    {
+        "distrito": "marcos-paz",
+        "titulo": "Inscripción a Listado EMERGENCIA – Formación Profesional – Gral.  Las Heras",
+        "fecha_publicacion": "18-05-2026",
+        "n_comunicado": "97/2026",
+        "nivel_modalidad": "Todos los niveles y modalidades",
+        "destinado_a": "Equipos de Conducción, Docentes",
+        "emite": "Secretaria de Asuntos Docentes de Marcos Paz",
+        "enlace": "https://abc.gob.ar/sad/sites/default/files/2026-05/097-26 Inscripción Listado Emergencia Formación Profesional Gral. Las Heras.pdf"
+    },
+    {
+        "distrito": "marcos-paz",
+        "titulo": "Procedimiento excepcional para agentes con imposibilidad de  acceso a la plataforma Mis Licencias",
+        "fecha_publicacion": "15-05-2026",
+        "n_comunicado": "96/2026",
+        "nivel_modalidad": "Todos los niveles y modalidades",
+        "destinado_a": "Equipos de Conducción, Docentes",
+        "emite": "Secretaria de Asuntos Docentes de Marcos Paz",
+        "enlace": "https://abc.gob.ar/sad/sites/default/files/2026-05/096-26 Trámite para docentes sin ícono Mis Licencias en Plataforma ABC.pdf"
     },
     {
         "distrito": "marcos-paz",
@@ -55641,16 +56061,6 @@
     },
     {
         "distrito": "moreno",
-        "titulo": "DIFUSIÓN- COBERTURAS POR PROYECTO – EEST 4 -MMO -CTP (Ciclo Técnico Profesional en Maestra y Maestro Mayor de Obras)",
-        "fecha_publicacion": "18-03-2026",
-        "n_comunicado": "7/2026",
-        "nivel_modalidad": "Educación Técnico Profesional",
-        "destinado_a": "DOCENTES",
-        "emite": "SAD",
-        "enlace": "https://abc.gob.ar/sad/sites/default/files/2026-03/COMUNICADO- COBERTURAS POR PROYECTO –CTP MMO MT 4.docx"
-    },
-    {
-        "distrito": "moreno",
         "titulo": "Difsión Listado de emergencia de especial",
         "fecha_publicacion": "15-04-2026",
         "n_comunicado": "7/2026",
@@ -55658,6 +56068,16 @@
         "destinado_a": "DOCENTES",
         "emite": "SAD",
         "enlace": "https://abc.gob.ar/sad/sites/default/files/2026-04/emergencia especial.docx"
+    },
+    {
+        "distrito": "moreno",
+        "titulo": "DIFUSIÓN- COBERTURAS POR PROYECTO – EEST 4 -MMO -CTP (Ciclo Técnico Profesional en Maestra y Maestro Mayor de Obras)",
+        "fecha_publicacion": "18-03-2026",
+        "n_comunicado": "7/2026",
+        "nivel_modalidad": "Educación Técnico Profesional",
+        "destinado_a": "DOCENTES",
+        "emite": "SAD",
+        "enlace": "https://abc.gob.ar/sad/sites/default/files/2026-03/COMUNICADO- COBERTURAS POR PROYECTO –CTP MMO MT 4.docx"
     },
     {
         "distrito": "moreno",
@@ -55718,6 +56138,26 @@
         "destinado_a": "DOCENTES Y SERVICIOS EDUCATIVOS",
         "emite": "SAD",
         "enlace": "https://abc.gob.ar/sad/sites/default/files/2026-02/Res 275-2026 Calendario de Actividades Docentes.pdf"
+    },
+    {
+        "distrito": "moron",
+        "titulo": "INSCRIPCION COBERTURA PUNTUAL SECRETARIO DE ESCUELA TECNICA Nº4 - CONVENIADA",
+        "fecha_publicacion": "19-05-2026",
+        "n_comunicado": "236/2026",
+        "nivel_modalidad": "Todos los niveles y modalidades",
+        "destinado_a": "DOCENTES",
+        "emite": "SAD MORON.",
+        "enlace": "https://abc.gob.ar/sad/sites/default/files/2026-05/COMUNICADO 236.docx.pdf"
+    },
+    {
+        "distrito": "moron",
+        "titulo": "APTITUD PSICOFÍSICA- SIAPE - Incorporación de una nueva modalidad prestacional: Entrevistas médicas abreviadas",
+        "fecha_publicacion": "19-05-2026",
+        "n_comunicado": "235/2026",
+        "nivel_modalidad": "Todos los niveles y modalidades",
+        "destinado_a": "DOCENTES",
+        "emite": "SAD MORON.",
+        "enlace": "https://abc.gob.ar/sad/sites/default/files/2026-05/COMUNICADO 235.pdf.pdf"
     },
     {
         "distrito": "moron",
@@ -61087,17 +61527,27 @@
         "nivel_modalidad": "Educación Superior",
         "destinado_a": "DOCENTES",
         "emite": "SAD PEHUAJÓ",
-        "enlace": "https://abc.gob.ar/sad/sites/default/files/2026-05/COMUNICADO N°80.docx.pdf"
+        "enlace": "https://abc.gob.ar/sad/sites/default/files/2026-05/COMUNICADO N°80.docx (1).pdf"
     },
     {
         "distrito": "pehuajo",
         "titulo": "RECTIFICATORIO - Comisión Evaluadora Pruebas de Selección Inspectoras/es ARTÍSTICA",
         "fecha_publicacion": "18-05-2026",
-        "n_comunicado": "78/2026",
+        "n_comunicado": "79/2026",
         "nivel_modalidad": "Educación Artística",
         "destinado_a": "Docentes",
         "emite": "SAD PEHUAJÓ",
         "enlace": "https://abc.gob.ar/sad/sites/default/files/2026-05/DISPO-2026-229-GDEBA-SSEDGCYE - Rectificatoria DISPO-2026-137-GDEBA-SSEDGCYE - PS 2026 IE ARTÍSTICA COMISIÓN EVALUADORA y Anexo único.pdf"
+    },
+    {
+        "distrito": "pehuajo",
+        "titulo": "Disposición de Pruebas de Selección 2026  DIRECTORA/OR CIIE",
+        "fecha_publicacion": "18-05-2026",
+        "n_comunicado": "78/2026",
+        "nivel_modalidad": "Todos los niveles y modalidades",
+        "destinado_a": "Docentes",
+        "emite": "SAD PEHUAJÓ",
+        "enlace": "https://abc.gob.ar/sad/sites/default/files/2026-05/COMUNICADO N° 78 (DIRECTORA_OR CIIE).docx.pdf"
     },
     {
         "distrito": "pehuajo",
@@ -61128,16 +61578,6 @@
         "destinado_a": "Docentes",
         "emite": "SAD PEHUAJÓ",
         "enlace": "https://abc.gob.ar/sad/sites/default/files/2026-05/COMUNICADO N° 75  INSPECTORES( Rectif comision evaluadora).pdf"
-    },
-    {
-        "distrito": "pehuajo",
-        "titulo": "Disposición de Pruebas de Selección 2026  DIRECTORA/OR CIIE",
-        "fecha_publicacion": "18-05-2026",
-        "n_comunicado": "75/2026",
-        "nivel_modalidad": "Todos los niveles y modalidades",
-        "destinado_a": "Docentes",
-        "emite": "SAD PEHUAJÓ",
-        "enlace": "https://abc.gob.ar/sad/sites/default/files/2026-05/COMUNICADO N° 78 (DIRECTORA_OR CIIE).docx.pdf"
     },
     {
         "distrito": "pehuajo",
@@ -65258,6 +65698,26 @@
         "destinado_a": "DOCENTES",
         "emite": "Dirección de Formación Profesional",
         "enlace": "https://abc.gob.ar/sad/sites/default/files/2026-02/COMUNICADO N° 6 PRUEBAS DE IDONEIDAD ESTRATÉGICA 2026-FORMACIÓN PROFESIONAL (2).pdf"
+    },
+    {
+        "distrito": "punta-indio",
+        "titulo": "LLAMADO DIFICIL COBERTURA POR PROYECTO CARGOS: INGLÉS 3ro - EES N° 3",
+        "fecha_publicacion": "19-05-2026",
+        "n_comunicado": "110/2026",
+        "nivel_modalidad": "Educación Secundaria",
+        "destinado_a": "Equipo de conducción, docentes y aspirantes",
+        "emite": "SAD PUNTA INDIO",
+        "enlace": "https://abc.gob.ar/sad/sites/default/files/2026-05/COMUNICADO 110 LLAMADO DIFICIL COBERTURA POR PROYECTO CARGOS_ INGLÉS 3ro- EES N° 3_0.pdf"
+    },
+    {
+        "distrito": "punta-indio",
+        "titulo": "LLAMADO DIFICIL COBERTURA POR PROYECTO CARGOS: INGLÉS 2do y 3er - EES N° 2",
+        "fecha_publicacion": "19-05-2026",
+        "n_comunicado": "109/2026",
+        "nivel_modalidad": "Educación Secundaria",
+        "destinado_a": "Equipos de Conducción, docentes, aspirantes",
+        "emite": "SAD PUNTA INDIO",
+        "enlace": "https://abc.gob.ar/sad/sites/default/files/2026-05/COMUNICADO 109 LLAMADO DIFICIL COBERTURA POR PROYECTO CARGOS_ INGLÉS 2do y 3er - EES N° 2.pdf"
     },
     {
         "distrito": "punta-indio",
@@ -70071,6 +70531,16 @@
     },
     {
         "distrito": "san-cayetano",
+        "titulo": "- INFORMAR EMERGENCIA - SECUNDARIA TÉCNICA  - APE - 2026 -",
+        "fecha_publicacion": "19-05-2026",
+        "n_comunicado": "39/2026",
+        "nivel_modalidad": "Educación Técnico Profesional",
+        "destinado_a": "ASPIRANTES INTERESADOS",
+        "emite": "SADD- SC",
+        "enlace": "https://abc.gob.ar/sad/sites/default/files/2026-05/COMUNICADO N° 39 _ 26 - EMERG. ETP- SECUNDARIA TÉCNICA  .pdf"
+    },
+    {
+        "distrito": "san-cayetano",
         "titulo": "INFORMAR CONVOCATORIA POR  DIFÍCIL COBERTURA  - MODULOS: (LIT. / FIS)",
         "fecha_publicacion": "04-05-2026",
         "n_comunicado": "38/2026",
@@ -70131,16 +70601,6 @@
     },
     {
         "distrito": "san-cayetano",
-        "titulo": "INFORMAR APERTURA - CONVOCATORIA DE EMERGENCIA ED. SECUNDARIA (ESPACIOS CURRICULARES)",
-        "fecha_publicacion": "06-04-2026",
-        "n_comunicado": "27/2026",
-        "nivel_modalidad": "Educación Secundaria",
-        "destinado_a": "Servicios Educativos - Aspirantes Interesados/as",
-        "emite": "SADD- SC",
-        "enlace": "https://abc.gob.ar/sad/sites/default/files/2026-04/COMUNICADO N° 27_26 - EMERG. SECUNDARIA _0.pdf"
-    },
-    {
-        "distrito": "san-cayetano",
         "titulo": "INFORMAR APERTURA CONVOCATORIA DE EMERGENCIA PARA ESPACIOS CURRICULARES - ED. SECUNDARIA",
         "fecha_publicacion": "06-04-2026",
         "n_comunicado": "27/2026",
@@ -70148,6 +70608,16 @@
         "destinado_a": "Servicios Educativos - Aspirantes Interesados/as",
         "emite": "SADD- SC",
         "enlace": "https://abc.gob.ar/sad/sites/default/files/2026-04/COMUNICADO N° 27_26 - EMERG. SECUNDARIA .pdf"
+    },
+    {
+        "distrito": "san-cayetano",
+        "titulo": "INFORMAR APERTURA - CONVOCATORIA DE EMERGENCIA ED. SECUNDARIA (ESPACIOS CURRICULARES)",
+        "fecha_publicacion": "06-04-2026",
+        "n_comunicado": "27/2026",
+        "nivel_modalidad": "Educación Secundaria",
+        "destinado_a": "Servicios Educativos - Aspirantes Interesados/as",
+        "emite": "SADD- SC",
+        "enlace": "https://abc.gob.ar/sad/sites/default/files/2026-04/COMUNICADO N° 27_26 - EMERG. SECUNDARIA _0.pdf"
     },
     {
         "distrito": "san-cayetano",
@@ -71428,6 +71898,46 @@
         "destinado_a": "Equipos de Conducción/docentes interesados",
         "emite": "SECRETARIA DE ASUNTOS DOCENTES",
         "enlace": "https://abc.gob.ar/sad/sites/default/files/2026-02/INSCRIPCIÓN PRUEBAS DE IDONEIDAD ESTRATÉGICA 2026.pdf"
+    },
+    {
+        "distrito": "san-nicolas",
+        "titulo": "INSCRIPCIÓN EMERGENCIA MG",
+        "fecha_publicacion": "19-05-2026",
+        "n_comunicado": "132/2026",
+        "nivel_modalidad": "Todos los niveles y modalidades",
+        "destinado_a": "TODOS",
+        "emite": "SADD",
+        "enlace": "https://abc.gob.ar/sad/sites/default/files/2026-05/COMUNICADO N° 132-2026   INSCRIPCIÓN EMERGENCIA MG.pdf"
+    },
+    {
+        "distrito": "san-nicolas",
+        "titulo": "Llamado a Concursos docentes ISFD 127",
+        "fecha_publicacion": "19-05-2026",
+        "n_comunicado": "131/2026",
+        "nivel_modalidad": "Todos los niveles y modalidades",
+        "destinado_a": "TODOS",
+        "emite": "SADD",
+        "enlace": "https://abc.gob.ar/sad/sites/default/files/2026-05/COMUNICADO N°131 - 2026   Llamado a Concursos docentes ISFD 127.pdf"
+    },
+    {
+        "distrito": "san-nicolas",
+        "titulo": "Rectificatoria DISPO-2026-137-GDEBA-SSEDGCYE - PS 2026 IE ARTÍSTICA COMISIÓN EVALUADORA",
+        "fecha_publicacion": "19-05-2026",
+        "n_comunicado": "130/2026",
+        "nivel_modalidad": "Todos los niveles y modalidades",
+        "destinado_a": "TODOS",
+        "emite": "SADD",
+        "enlace": "https://abc.gob.ar/sad/sites/default/files/2026-05/COMUNICADO N°130 - 2026   Rectificatoria DISPO-2026-137-GDEBA-SSEDGCYE - PS 2026 IE ARTÍSTICA COMISIÓN EVALUADORA.pdf"
+    },
+    {
+        "distrito": "san-nicolas",
+        "titulo": "Difusión PS2026- Director de CIIE",
+        "fecha_publicacion": "18-05-2026",
+        "n_comunicado": "129/2026",
+        "nivel_modalidad": "Todos los niveles y modalidades",
+        "destinado_a": "TODOS",
+        "emite": "SADD",
+        "enlace": "https://abc.gob.ar/sad/sites/default/files/2026-05/COMUNICADO N°129 - 2026   Difusión PS2026- Director de CIIE.pdf"
     },
     {
         "distrito": "san-nicolas",
@@ -79091,13 +79601,4 @@
     },
     {
         "distrito": "veinticinco-de-mayo",
-        "titulo": "CePEAC N° 1 Pruebas de Selección para evaluación de títulos, antecedentes y oposición para Nivel Superior",
-        "fecha_publicacion": "06-04-2026",
-        "n_comunicado": "26/2026",
-        "nivel_modalidad": "Educación Artística",
-        "destinado_a": "PUBLICO EN GENERAL",
-        "emite": "SAD VEINTICINCO DE MAYO",
-        "enlace": "https://abc.gob.ar/sad/sites/default/files/2026-04/COMUNICADO N°26_2026 CePEAC N° 1 Pruebas de Selección para Nivel Superior.pdf"
-    },
-    {
-        
+        "titulo": 
