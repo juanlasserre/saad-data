@@ -1780,6 +1780,376 @@
         "enlace": "https://abc.gob.ar/sad/sites/default/files/2026-04/COMUNICADO 38_26 proy. EPS.pdf"
     },
     {
+        "distrito": "bahia-blanca",
+        "titulo": "Sad Bahía Blanca difunde el Comunicado Oficial N°37 sobre Pruebas de Selección 2026 de INSPECTORAS/ES de diferentes Niveles y Modalidades",
+        "fecha_publicacion": "21-04-2026",
+        "n_comunicado": "37/2026",
+        "nivel_modalidad": "Todos los niveles y modalidades",
+        "destinado_a": "Docentes interesadas/os en Pruebas de Selección",
+        "emite": "SADD B.BCA.",
+        "enlace": "https://abc.gob.ar/sad/sites/default/files/2026-04/COMUNICADO 37_26 PS Insp.pdf"
+    },
+    {
+        "distrito": "bahia-blanca",
+        "titulo": "Sad Bahía Blanca difunde el Comunicado Oficial N°36 sobre la extensión del plazo de inscripción para Pruebas de Selección Directivas/os de Secundaria",
+        "fecha_publicacion": "21-04-2026",
+        "n_comunicado": "36/2026",
+        "nivel_modalidad": "Educación Secundaria",
+        "destinado_a": "Docentes interesadas/os en Pruebas de Selección D",
+        "emite": "SADD B.BCA.",
+        "enlace": "https://abc.gob.ar/sad/sites/default/files/2026-04/COMUNICADO 36_26 Inscripción ex PS D SEC.pdf"
+    },
+    {
+        "distrito": "bahia-blanca",
+        "titulo": "Sad Bahía Blanca difunde el Comunicado Oficial N°35 sobre cambios en la normativa de Listado de Emergencia Especial y la nueva evaluación del mismo.",
+        "fecha_publicacion": "21-04-2026",
+        "n_comunicado": "35/2026",
+        "nivel_modalidad": "Educación Especial",
+        "destinado_a": "Docentes interesadas/os en Emergencia de Especial",
+        "emite": "SADD B.BCA.",
+        "enlace": "https://abc.gob.ar/sad/sites/default/files/2026-04/COMUNICADO 35_26 Listados de EMERGENCIA ESPECIAL.pdf"
+    },
+    {
+        "distrito": "bahia-blanca",
+        "titulo": "Sad Bahía Blanca difunde el Comunicado Oficial N°34 sobre convocatoria a cobertura de cargo AFTE en EES N°14: Educación Física",
+        "fecha_publicacion": "17-04-2026",
+        "n_comunicado": "34/2026",
+        "nivel_modalidad": "Educación Física",
+        "destinado_a": "Docentes interesadas/os",
+        "emite": "SADD B.BCA.",
+        "enlace": "https://abc.gob.ar/sad/sites/default/files/2026-04/COMUNICADO 34_26 Difusión Convocatoria AFTE ES14.pdf"
+    },
+    {
+        "distrito": "bahia-blanca",
+        "titulo": "Sad Bahía Blanca difunde el Comunicado Oficial N°32 sobre Convocatorias Varias",
+        "fecha_publicacion": "16-04-2026",
+        "n_comunicado": "33/2026",
+        "nivel_modalidad": "Educación Artística, Educación Secundaria, Educación Técnico Profesional",
+        "destinado_a": "Docentes interesadas/os",
+        "emite": "SADD B.BCA.",
+        "enlace": "https://abc.gob.ar/sad/sites/default/files/2026-04/COMUNICADO 33_26 Difusión Convocatorias varias.pdf"
+    },
+    {
+        "distrito": "bahia-blanca",
+        "titulo": "Sad Bahía Blanca difunde el Comunicado Oficial N°30Sobre Pruebas de Selección para Jefa/e de Área de Ed. Superior Inicial, Ed. Agraria, Ed. Técnica y Ed. Superior Técnica",
+        "fecha_publicacion": "16-04-2026",
+        "n_comunicado": "32/2026",
+        "nivel_modalidad": "Dir de Ed Agraria, Dir de Ed Técnica, Educación Superior, Educación Técnico Profesional",
+        "destinado_a": "Docentes interesadas/os",
+        "emite": "SADD B.BCA.",
+        "enlace": "https://abc.gob.ar/sad/sites/default/files/2026-04/COMUNICADO 32_26 Difusión PS JA (1).pdf"
+    },
+    {
+        "distrito": "bahia-blanca",
+        "titulo": "Sad Bahía Blanca difunde el Comunicado Oficial N°31 sobre reapertura de la Inscripción a Listados de Emergencia 2026",
+        "fecha_publicacion": "14-04-2026",
+        "n_comunicado": "31/2026",
+        "nivel_modalidad": "Todos los niveles y modalidades",
+        "destinado_a": "Docentes interesadas/os en inscripción Emergencia",
+        "emite": "SADD B.BCA.",
+        "enlace": "https://abc.gob.ar/sad/sites/default/files/2026-04/COMUNICADO 31_26 Listados de EMERGENCIA anual.pdf"
+    },
+    {
+        "distrito": "bahia-blanca",
+        "titulo": "SAD Bahía Blanca difunde Disposiciones para Pruebas de Selección 2026 de JEFAS/ES DE ÁREA transitorio de Educación Superior Artística y Secundaria Artística ESEA, y las Comisiones Evaluadoras Zonales correspondientes a Secundaria Artística ESEA",
+        "fecha_publicacion": "14-04-2026",
+        "n_comunicado": "30/2026",
+        "nivel_modalidad": "Educación Artística",
+        "destinado_a": "Docentes interesadas/os",
+        "emite": "SADD B.BCA.",
+        "enlace": "https://abc.gob.ar/sad/sites/default/files/2026-04/COMUNICADO 30_26 Difusión PS JA.pdf"
+    },
+    {
+        "distrito": "bahia-blanca",
+        "titulo": "Sad Bahía Blanca difunde el Comunicado Oficial N°29 sobre diferentes Convocatorias: DICyT Nivel Secundario Adultos, Prueba de Idoneidad de Emergencia de FP, Docente tutor INGLÉS a Distancia para CENS N°451 e Inglés de 1° para CEBAS N°30",
+        "fecha_publicacion": "14-04-2026",
+        "n_comunicado": "29/2026",
+        "nivel_modalidad": "Dir de Form Prof, Educación de Jóvenes, Adultos y Adultos Mayores, Educación Secundaria",
+        "destinado_a": "Docentes interesadas/os",
+        "emite": "SADD B.BCA.",
+        "enlace": "https://abc.gob.ar/sad/sites/default/files/2026-04/COMUNICADO 29_26 Difusión Convocatorias varias.pdf"
+    },
+    {
+        "distrito": "bahia-blanca",
+        "titulo": "Sad Bahía Blanca difunde el Comunicado Oficial N°28 sobre Puntaje Anual Docente",
+        "fecha_publicacion": "13-04-2026",
+        "n_comunicado": "28/2026",
+        "nivel_modalidad": "Todos los niveles y modalidades",
+        "destinado_a": "Docentes titulares",
+        "emite": "SADD B.BCA.",
+        "enlace": "https://abc.gob.ar/sad/sites/default/files/2026-04/COMUNICADO 28_26 PAD.pdf"
+    },
+    {
+        "distrito": "bahia-blanca",
+        "titulo": "SADD Bahía Blanca difunde el comunicado N°27 sobre módulos de Inglés AFTE en EES N°13",
+        "fecha_publicacion": "09-04-2026",
+        "n_comunicado": "27/2026",
+        "nivel_modalidad": "Educación Secundaria",
+        "destinado_a": "Docentes interesadas/os",
+        "emite": "SADD B.BCA.",
+        "enlace": "https://abc.gob.ar/sad/sites/default/files/2026-04/COMUNICADO 27_26 Difusión Convocatorias AFTE.pdf"
+    },
+    {
+        "distrito": "bahia-blanca",
+        "titulo": "Sad Bahía Blanca difunde el Comunicado Oficial N°26 sobre Cobertura por Pruebas de Selección en AV N°3, AT N°4 e ISFD N°86",
+        "fecha_publicacion": "09-04-2026",
+        "n_comunicado": "26/2026",
+        "nivel_modalidad": "Educación Artística, Educación Superior",
+        "destinado_a": "Docentes interesadas/os en Pruebas de Selección",
+        "emite": "SADD B.BCA.",
+        "enlace": "https://abc.gob.ar/sad/sites/default/files/2026-04/COMUNICADO 26_26 Difusión PS Superior (1).pdf"
+    },
+    {
+        "distrito": "bahia-blanca",
+        "titulo": "Sad Bahía Blanca difunde el Comunicado Oficial N°25 sobre la inscripción a Prueba de Idoneidad de Emergencia de Formación Profesional",
+        "fecha_publicacion": "07-04-2026",
+        "n_comunicado": "25/2026",
+        "nivel_modalidad": "Dir de Form Prof",
+        "destinado_a": "Docentes interesadas/os en inscripción",
+        "emite": "SADD B.BCA.",
+        "enlace": "https://abc.gob.ar/sad/sites/default/files/2026-04/COMUNICADO 25_26 Difusión Idoneidad FP.pdf"
+    },
+    {
+        "distrito": "bahia-blanca",
+        "titulo": "SAD Bahía Blanca difunde la Convocatoria a cobertura de diferentes cargos en el Centro de Educación Agraria Nº 18",
+        "fecha_publicacion": "07-04-2026",
+        "n_comunicado": "24/2026",
+        "nivel_modalidad": "Dir de Ed Agraria",
+        "destinado_a": "Docentes interesadas/os en inscripción",
+        "emite": "SADD B.BCA.",
+        "enlace": "https://abc.gob.ar/sad/sites/default/files/2026-04/COMUNICADO 24_26 Difusión Convocatorias AFTE (1).pdf"
+    },
+    {
+        "distrito": "bahia-blanca",
+        "titulo": "SADD Bahía Blanca difunde el comunicado N°23 sobre Pruebas de Selección para la cobertura transitoria de Directiva/o de todos los Niveles y Modalidades",
+        "fecha_publicacion": "07-04-2026",
+        "n_comunicado": "23/2026",
+        "nivel_modalidad": "Todos los niveles y modalidades",
+        "destinado_a": "Docentes interesadas/os en Pruebas de Selección",
+        "emite": "SADD B.BCA.",
+        "enlace": "https://abc.gob.ar/sad/sites/default/files/2026-04/COMUNICADO 23_26 Difusión PS D (1).pdf"
+    },
+    {
+        "distrito": "bahia-blanca",
+        "titulo": "SADD Bahía Blanca difunde el comunicado N°22 sobre Pruebas de Selección para la cobertura transitoria de Secretaria/o de todos los Niveles y Modalidades y para el cargo de SADD Distrital",
+        "fecha_publicacion": "31-03-2026",
+        "n_comunicado": "22/2026",
+        "nivel_modalidad": "Todos los niveles y modalidades",
+        "destinado_a": "Docentes interesadas/os en Pruebas de Selección",
+        "emite": "SADD B.BCA.",
+        "enlace": "https://abc.gob.ar/sad/sites/default/files/2026-03/COMUNICADO 22_26 Difusión PS .pdf"
+    },
+    {
+        "distrito": "bahia-blanca",
+        "titulo": "Sad Bahía Blanca difunde el Comunicado Oficial N°21 sobre cambios en la plataforma Mis licencias",
+        "fecha_publicacion": "31-03-2026",
+        "n_comunicado": "21/2026",
+        "nivel_modalidad": "Todos los niveles y modalidades",
+        "destinado_a": "Docentes en general",
+        "emite": "SADD B.BCA.",
+        "enlace": "https://abc.gob.ar/sad/sites/default/files/2026-03/COMUNICADO 21_26 Mis licencias.pdf"
+    },
+    {
+        "distrito": "bahia-blanca",
+        "titulo": "Sad Bahía Blanca difunde el Comunicado Oficial N°20 sobre Cobertura por Pruebas de Selección en AV N°3",
+        "fecha_publicacion": "31-03-2026",
+        "n_comunicado": "20/2026",
+        "nivel_modalidad": "Educación Artística",
+        "destinado_a": "Docentes interesadas/os en Pruebas de Selección",
+        "emite": "SADD B.BCA.",
+        "enlace": "https://abc.gob.ar/sad/sites/default/files/2026-03/COMUNICADO 20_26 Difusión PS Superior (1).pdf"
+    },
+    {
+        "distrito": "bahia-blanca",
+        "titulo": "SAD Bahía Blanca difunde a solicitud de la IE Denise Moschetti la Convocatoria a cobertura de cargo AFTE en EES N°2",
+        "fecha_publicacion": "31-03-2026",
+        "n_comunicado": "19/2026",
+        "nivel_modalidad": "Educación Física",
+        "destinado_a": "Docentes interesadas/os",
+        "emite": "SADD B.BCA.",
+        "enlace": "https://abc.gob.ar/sad/sites/default/files/2026-03/COMUNICADO 19_26 Difusión Convocatorias AFTE.pdf"
+    },
+    {
+        "distrito": "bahia-blanca",
+        "titulo": "SAD Bahía Blanca difunde la Convocatoria a cobertura de cargo en Escuela De Educación Secundaria N°2",
+        "fecha_publicacion": "26-03-2026",
+        "n_comunicado": "18/2026",
+        "nivel_modalidad": "Educación Secundaria",
+        "destinado_a": "Docentes interesadas/os en AFTE",
+        "emite": "SADD B.BCA.",
+        "enlace": "https://abc.gob.ar/sad/sites/default/files/2026-03/COMUNICADO 18_26 Difusión Convocatorias AFTE (1).pdf"
+    },
+    {
+        "distrito": "bahia-blanca",
+        "titulo": "SAD Bahía Blanca difunde la incorporación de una nueva modalidad prestacional: Entrevistas médicas abreviadas.",
+        "fecha_publicacion": "26-03-2026",
+        "n_comunicado": "17/2026",
+        "nivel_modalidad": "Todos los niveles y modalidades",
+        "destinado_a": "Docentes titulares con 48 años y 20 años de aporte",
+        "emite": "SADD B.BCA.",
+        "enlace": "https://abc.gob.ar/sad/sites/default/files/2026-03/COMUNICADO 17_26 Entrevistas médicas abreviadas (1).pdf"
+    },
+    {
+        "distrito": "bahia-blanca",
+        "titulo": "Sad Bahía Blanca difunde el Comunicado Oficial N°16 sobre Cobertura por Pruebas de Selección por Evaluación de Títulos, Antecedentes y Oposición en AM N°1",
+        "fecha_publicacion": "26-03-2026",
+        "n_comunicado": "16/2026",
+        "nivel_modalidad": "Educación Artística",
+        "destinado_a": "Docentes interesadas/os en Pruebas de Selección",
+        "emite": "SADD B.BCA.",
+        "enlace": "https://abc.gob.ar/sad/sites/default/files/2026-03/COMUNICADO 16_26 Difusión PS Superior (1).pdf"
+    },
+    {
+        "distrito": "bahia-blanca",
+        "titulo": "Sad Bahía Blanca difunde el Comunicado Oficial N°15 sobre Convocatoria para CEBAS",
+        "fecha_publicacion": "26-03-2026",
+        "n_comunicado": "15/2026",
+        "nivel_modalidad": "Educación Secundaria",
+        "destinado_a": "Interesadas/os en convocatoria CEBAS",
+        "emite": "SADD B.BCA.",
+        "enlace": "https://abc.gob.ar/sad/sites/default/files/2026-03/15_26 Difusión Convocatorias CEBAS.pdf"
+    },
+    {
+        "distrito": "bahia-blanca",
+        "titulo": "Sad Bahía Blanca difunde el Comunicado Oficial N°14 sobre Cobertura por PS en Nivel Superios de AT4, ISFD86 y AV3",
+        "fecha_publicacion": "19-03-2026",
+        "n_comunicado": "14/2026",
+        "nivel_modalidad": "Educación Artística, Educación Superior",
+        "destinado_a": "Docentes interesadas/os en Pruebas de Selección",
+        "emite": "SADD B.BCA.",
+        "enlace": "https://abc.gob.ar/sad/sites/default/files/2026-03/COMUNICADO 14_26 Difusión PS Superior (1).pdf"
+    },
+    {
+        "distrito": "bahia-blanca",
+        "titulo": "Sad Bahía Blanca difunde el Comunicado Oficial N°13 sobre Ingreso a la docencia 2026 LOF 2027",
+        "fecha_publicacion": "19-03-2026",
+        "n_comunicado": "13/2026",
+        "nivel_modalidad": "Todos los niveles y modalidades",
+        "destinado_a": "Interesados en inscripción Ingreso a la docencia",
+        "emite": "SADD B.BCA.",
+        "enlace": "https://abc.gob.ar/sad/sites/default/files/2026-03/COMUNICADO 13_26 LOF.pdf"
+    },
+    {
+        "distrito": "bahia-blanca",
+        "titulo": "Sad Bahía Blanca difunde el Comunicado Oficial N°12 sobre convocatoria por Difícil Cobertura para FOBA de AM N°1 y AD N°2",
+        "fecha_publicacion": "12-03-2026",
+        "n_comunicado": "12/2026",
+        "nivel_modalidad": "Educación Artística",
+        "destinado_a": "Docentes interesadas/os en Difícil Cobertura",
+        "emite": "SADD B.BCA.",
+        "enlace": "https://abc.gob.ar/sad/sites/default/files/2026-03/COMUNICADO 12_26 Difusión DC FOBA.pdf"
+    },
+    {
+        "distrito": "bahia-blanca",
+        "titulo": "Sad Bahía Blanca difunde el Comunicado Oficial N°11 sobre Cobertura por Pruebas de Selección por Evaluación de Títulos, Antecedentes y Oposición en ISFD86, AD2 y AV3",
+        "fecha_publicacion": "12-03-2026",
+        "n_comunicado": "11/2026",
+        "nivel_modalidad": "Educación Artística, Educación Superior",
+        "destinado_a": "Docentes interesadas/os en Pruebas de Selección",
+        "emite": "SADD B.BCA.",
+        "enlace": "https://abc.gob.ar/sad/sites/default/files/2026-03/COMUNICADO 11_26 Difusión PS Superior (1).pdf"
+    },
+    {
+        "distrito": "bahia-blanca",
+        "titulo": "Sad Bahía Blanca difunde el Comunicado Oficial N°10 sobre inscripción para listados de Guardavidas de CEF para coberturas 2026",
+        "fecha_publicacion": "10-03-2026",
+        "n_comunicado": "10/2026",
+        "nivel_modalidad": "Educación Física",
+        "destinado_a": "Docentes interesadas/os en inscripción",
+        "emite": "SADD B.BCA.",
+        "enlace": "https://abc.gob.ar/sad/sites/default/files/2026-03/COMUNICADO 10_26 Guardavidas CEF.pdf"
+    },
+    {
+        "distrito": "bahia-blanca",
+        "titulo": "Sad Bahía Blanca difunde el Comunicado Oficial N°9 sobre Cobertura por PS Escuela de Teatro: rectificación y Escuela de Danzas: Técnica de la Danza Contemporánea",
+        "fecha_publicacion": "10-03-2026",
+        "n_comunicado": "9/2026",
+        "nivel_modalidad": "Educación Artística",
+        "destinado_a": "Docentes interesadas/os en Pruebas de Selección",
+        "emite": "SADD B.BCA.",
+        "enlace": "https://abc.gob.ar/sad/sites/default/files/2026-03/COMUNICADO 9_26 Difusión PS Superior.pdf"
+    },
+    {
+        "distrito": "bahia-blanca",
+        "titulo": "Sad Bahía Blanca difunde el Comunicado Oficial N°8 sobre Cobertura por Pruebas de Selección por Evaluación de Títulos, Antecedentes y Oposición",
+        "fecha_publicacion": "05-03-2026",
+        "n_comunicado": "8/2026",
+        "nivel_modalidad": "Educación Artística, Educación Superior",
+        "destinado_a": "Docentes interesadas/os en Pruebas de Selección",
+        "emite": "SADD B.BCA.",
+        "enlace": "https://abc.gob.ar/sad/sites/default/files/2026-03/COMUNICADO 8_26 Difusión PS Superior.pdf"
+    },
+    {
+        "distrito": "bahia-blanca",
+        "titulo": "Convocatoria CEBAS",
+        "fecha_publicacion": "05-03-2026",
+        "n_comunicado": "7/2026",
+        "nivel_modalidad": "Educación de Jóvenes, Adultos y Adultos Mayores",
+        "destinado_a": "Interesadas/os en convocatoria CEBAS",
+        "emite": "SADD B.BCA.",
+        "enlace": "https://abc.gob.ar/sad/sites/default/files/2026-03/COMUNICADO 7_26 Difusión Convocatorias CEBAS.pdf"
+    },
+    {
+        "distrito": "bahia-blanca",
+        "titulo": "Sad Bahía Blanca difunde el Comunicado Oficial N°6 sobre Cobertura por Pruebas de Selección por Evaluación de Títulos, Antecedentes y Oposición",
+        "fecha_publicacion": "26-02-2026",
+        "n_comunicado": "6/2026",
+        "nivel_modalidad": "Educación Artística, Educación Superior",
+        "destinado_a": "Docentes interesadas/os",
+        "emite": "SADD B.BCA.",
+        "enlace": "https://abc.gob.ar/sad/sites/default/files/2026-02/COMUNICADO 6_26 Difusión PS Superior.pdf"
+    },
+    {
+        "distrito": "bahia-blanca",
+        "titulo": "SAD Bahía Blanca difunde la Inscripción a Listado de Emergencia FINES 2026",
+        "fecha_publicacion": "24-02-2026",
+        "n_comunicado": "5/2026",
+        "nivel_modalidad": "Educación de Jóvenes, Adultos y Adultos Mayores",
+        "destinado_a": "Interesadas/os en inscripción Listado Emergencia",
+        "emite": "SADD B.BCA.",
+        "enlace": "https://abc.gob.ar/sad/sites/default/files/2026-02/COMUNICADO 5_26 Listado de EMERGENCIA FINES.docx"
+    },
+    {
+        "distrito": "bahia-blanca",
+        "titulo": "SAD Bahía Blanca difunde la inscripción a Listados FP Infine 2026",
+        "fecha_publicacion": "20-02-2026",
+        "n_comunicado": "4/2026",
+        "nivel_modalidad": "Dir de Form Prof",
+        "destinado_a": "Interesadas/os en inscripción Listado FP Infine 26",
+        "emite": "SADD B.BCA.",
+        "enlace": "https://abc.gob.ar/sad/sites/default/files/2026-02/COMUNICADO 4_26 Listados INFINE FP.pdf"
+    },
+    {
+        "distrito": "bahia-blanca",
+        "titulo": "SAD Bahía Blanca difunde la inscripción a Listados de Emergencia 2026",
+        "fecha_publicacion": "18-02-2026",
+        "n_comunicado": "3/2026",
+        "nivel_modalidad": "Educación de Jóvenes, Adultos y Adultos Mayores, Educación Especial, Educación Primaria, Psicología Comunitaria y Pedagogía Social",
+        "destinado_a": "Interesadas/os en inscrip. List. de Emergencia 26",
+        "emite": "SADD B.BCA.",
+        "enlace": "https://abc.gob.ar/sad/sites/default/files/2026-02/COMUNICADO 3_26 Listados de EMERGENCIA.pdf"
+    },
+    {
+        "distrito": "bahia-blanca",
+        "titulo": "SAD Bahía Blanca difunde la inscripción a Listados Infine 2026",
+        "fecha_publicacion": "18-02-2026",
+        "n_comunicado": "2/2026",
+        "nivel_modalidad": "Todos los niveles y modalidades",
+        "destinado_a": "Interesadas/os en inscripción Listado INFINE 2026",
+        "emite": "SADD B.BCA.",
+        "enlace": "https://abc.gob.ar/sad/sites/default/files/2026-02/COMUNICADO 2_26 Listados INFINE .pdf"
+    },
+    {
+        "distrito": "bahia-blanca",
+        "titulo": "SAD Bahía Blanca difunde la implementación del Módulo Común de Orientación Profesional",
+        "fecha_publicacion": "11-02-2026",
+        "n_comunicado": "1/2026",
+        "nivel_modalidad": "Dir de Form Prof",
+        "destinado_a": "Interesadas/os en inscripción FP",
+        "emite": "SADD B.BCA.",
+        "enlace": "https://abc.gob.ar/sad/sites/default/files/2026-02/COMUNICADO 1_26 (1).pdf"
+    },
+    {
         "distrito": "balcarce",
         "titulo": "RECONOCIMIENTO ANTIGUEDAD",
         "fecha_publicacion": "18-03-2026",
